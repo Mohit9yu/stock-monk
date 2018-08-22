@@ -2,4 +2,5 @@ stock
 equity 
 debt
 risk asset
+current ratio
 These are financial jargons
