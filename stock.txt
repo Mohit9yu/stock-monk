@@ -1,0 +1,5 @@
+stock
+equity 
+debt
+risk asset
+These are financial jargons
